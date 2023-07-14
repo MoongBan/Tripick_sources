@@ -51,3 +51,16 @@ menu데이터는 가게 정보 검색을 위한 팝업창 출력.
 ### 7. Kakao Map API, Sweet Alert2 사용
 ![image](https://github.com/MoongBan/Tripick_sources/assets/122944951/9f8eae17-3d9f-4916-a6c0-44bdee8d5903)
 위치정보가 필요한 페이지에는 KaKaoMap API 사용하여 위치 정보 출력, Sweet Alert2 사용하여 Alert창 디자인
+
+---
+## ✏️ ERD
+![image](https://github.com/MoongBan/Tripick_sources/assets/122944951/3729cfec-8286-484f-ad97-d10e0fcd1b92)
+
+--- 
+## 🤼‍♂️Author
+Team Leader : 🐯Lee Yeon Woo
+
+Backend : 🐺 Park MinSeo
+
+Frontend: 🐱 Lim Jeong Eun
+
