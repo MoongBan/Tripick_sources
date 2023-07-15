@@ -23,6 +23,7 @@ JavaScript 사용하여 중복체크 구현
 ### 3. 놀거리, 먹거리 상세정보 조회 페이지
 ![image](https://github.com/MoongBan/Tripick_sources/assets/122944951/aa1ab3c1-ef47-4386-bcaf-97134d18b8fa)
 상세정보 페이지에서 저장(북마크), 리뷰작성, 예매하기(기차예매 연동), 리뷰(댓글) 기능 구현
+"롯데월드 어드벤처블로그 글도 함께 읽어보세요" 버튼을 통해 블로그 글로 이동 가능. (홍보를 원하는 장소의 경우 블로그 글 작성 후 링크 가능)
 
 ### 4. 기차 예매 기능
 ![image](https://github.com/MoongBan/Tripick_sources/assets/122944951/c8cbda37-1651-4f46-9bc1-d89cb86e8d46)
